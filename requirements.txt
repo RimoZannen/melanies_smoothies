@@ -1,3 +1,5 @@
 # requirements.yxy
 snowflake-snowpark-python
 streamlit
+requests
+
